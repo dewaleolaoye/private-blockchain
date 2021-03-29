@@ -1,0 +1,14 @@
+{
+  "name": "private-blockchain",
+  "version": "1.0.0",
+  "description": "private blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adewale Olaoye",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "4.0.0"
+  }
+}
